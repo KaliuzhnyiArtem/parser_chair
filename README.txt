@@ -14,7 +14,7 @@ https://home-club.com.ua/ua/sku-90507603?gclid=CjwKCAjwzY2bBhB6EiwAPpUpZhSieA2DR
 Команда: git clone https://github.com/KaliuzhnyiArtem/parser_chair.git
 
 3. Створити віртуальне середовище(якщо у вас вже встановлений python)
-Команда: python 3 -m venv venv
+Команда: python3 -m venv venv
 
 4. Активувати віртуальне середовище
 Команда: source venv/bin/activate
