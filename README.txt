@@ -11,7 +11,7 @@ https://home-club.com.ua/ua/sku-90507603?gclid=CjwKCAjwzY2bBhB6EiwAPpUpZhSieA2DR
 1. Відкрити термінал, зайти в папку в яку будете клонувати репозиторій
 
 2. Клонувати репозиторій
-Команда: git clone
+Команда: git clone https://github.com/KaliuzhnyiArtem/parser_chair.git
 
 3. Створити віртуальне середовище(якщо у вас вже встановлений python)
 Команда: python 3 -m venv venv
